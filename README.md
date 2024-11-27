@@ -2,15 +2,20 @@
 
 <!--
 **deedee-ke/deedee-ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working on Backend Development
+- 🌱 I'm currently learning at Boot.dev
+- 💻 Primary language: Go
+- 🛠️ Technical Skills: REST APIs, SQL, Data Structures & Algorithms
+- 📚 Building projects with: Go, Python, C
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/diana-nganga)
+- ⚡ Fun fact: I love solving Sudoku puzzles - it's like debugging but with numbers!
+
+### Tech Stack:
+```go
+var skills = []string{
+    "Go", "Python", "C",
+    "REST APIs", "PostgreSQL",
+    "Data Structures & Algorithms",
+}
