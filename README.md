@@ -5,7 +5,6 @@
 -->
 
 - 🔭 I'm currently working on Backend Development
-- 🌱 I'm currently learning at Boot.dev
 - 💻 Primary language: Go
 - 🛠️ Technical Skills: REST APIs, SQL, Data Structures & Algorithms
 - 📚 Building projects with: Go, Python, C
